@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://howieyagaloo.de/'
+hasPage: true
+inNav: true
 inLanguage: la
-starred: false
+starred: true
 keywords: []
 description: 'Hier sind einige Arbeitsproben meiner Fotografien. '
-datePublished: '2016-03-08T20:05:21.423Z'
-dateModified: '2016-03-08T20:05:05.970Z'
+datePublished: '2016-03-08T20:06:44.514Z'
+dateModified: '2016-03-08T20:05:52.955Z'
 author: []
 related: []
 app_links: []
 title: Howie Yagaloo Photography - Home
+sourcePath: _posts/2016-03-08-howie-yagaloo-photography-home.md
+published: true
 authors: []
 publisher:
   name: Howieyagaloo
   domain: howieyagaloo.de
   url: 'http://howieyagaloo.de'
   favicon: 'http://howieyagaloo.de/templates/lt_photography_onepage/favicon.ico'
-sourcePath: _posts/2016-03-08-howie-yagaloo-photography-home.md
-published: true
+url: howie-yagaloo-photography-home/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
