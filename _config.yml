@@ -1,29 +1,41 @@
-name: howie yagaloo photography
-favicon: null
-layout_spectrum: 0.8069
-typography_spectrum: 0.31501
 title: Willkommen auf der TheGrid Testseite von Howie Yagaloo Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.9481115762609988
+  lightness: 0.2180451
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9481115762609988
-  lightness: 0.9901801899541169
-  saturation: 0.7017928829882294
-  rhythmicContrast: 0.9427130979020149
-purpose: []
+  rhythmicContrast: 0.5369674
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: howie yagaloo photography
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5921053
+layout_spectrum: 0.8069
