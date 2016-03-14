@@ -4,7 +4,7 @@
         <description><![CDATA[Willkommen auf der TheGrid Testseite von Howie Yagaloo Photography]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 01:50:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Howie Yagaloo Photography - Home]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 08 Mar 2016 20:09:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[nice tattos.]]></title>
+            <description><![CDATA[<article><h1>nice tattos.</h1><p>Hot damn @jouubellini 😻🔥💘</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d0b1d856c3f2396da95f82594e709c36c93cf6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/nice-tattos/index.html</link>
+            <guid isPermaLink="false">385ba354-535f-4767-a49a-d3b6e7a34c3b</guid>
+            <pubDate>Mon, 14 Mar 2016 01:49:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Der Felix.]]></title>
-            <description><![CDATA[<article><h1>Der Felix.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/222283ba-2e5c-4f60-b37a-0ff71db81bd7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Der Felix.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07b97ba6e7e3734e31a3b253d64bc2a89de3ab6d.png"></article>]]></description>
             <link>https://thegrid.ai/howie-yagaloo-photography/der-felix/index.html</link>
             <guid isPermaLink="false">2f382eea-5e37-4b0a-957a-e410b316d3c1</guid>
             <pubDate>Wed, 09 Mar 2016 02:34:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/39c6021f-8c8e-4a5a-88e4-2b5d8ecfe0e2/index.html</link>
             <guid isPermaLink="false">39c6021f-8c8e-4a5a-88e4-2b5d8ecfe0e2</guid>
             <pubDate>Tue, 08 Mar 2016 20:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a60c2d8d-ca64-414f-8f56-7186c36b3e6c.jpg">]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/2eb22fa4-6acc-4fbb-8f19-9e910274af46/index.html</link>
-            <guid isPermaLink="false">2eb22fa4-6acc-4fbb-8f19-9e910274af46</guid>
-            <pubDate>Tue, 08 Mar 2016 19:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
