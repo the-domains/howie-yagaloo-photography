@@ -4,7 +4,7 @@
         <description><![CDATA[Willkommen auf der TheGrid Testseite von Howie Yagaloo Photography]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 01:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 01:50:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Howie Yagaloo Photography - Home]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/howie-yagaloo-photography-home/index.html</link>
             <guid isPermaLink="false">955a0afc-b664-4447-b88d-117a312c5be6</guid>
             <pubDate>Tue, 08 Mar 2016 20:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[voyage, voyage. #Lyon]]></title>
+            <description><![CDATA[<article><h1>voyage, voyage. #Lyon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b69a289a97133fb09373dd39a2a22d48051381ef.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BC6Mv64DIS0/</link>
+            <guid isPermaLink="false">4a1f50e2-d6fd-42ef-8e72-5c9f6d9e8b8c</guid>
+            <pubDate>Mon, 14 Mar 2016 01:50:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[nice tattos.]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/2bc2668d-74a3-4a79-8646-77ada4357d80/index.html</link>
             <guid isPermaLink="false">2bc2668d-74a3-4a79-8646-77ada4357d80</guid>
             <pubDate>Tue, 08 Mar 2016 20:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/117a67c9-5955-4b84-a958-f0ae5d7d176f.jpg">]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/39c6021f-8c8e-4a5a-88e4-2b5d8ecfe0e2/index.html</link>
-            <guid isPermaLink="false">39c6021f-8c8e-4a5a-88e4-2b5d8ecfe0e2</guid>
-            <pubDate>Tue, 08 Mar 2016 20:00:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
