@@ -4,8 +4,15 @@
         <description><![CDATA[This is Howie Yagaloo Photography.]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 22:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 12:09:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Felix. ]]></title>
+            <description><![CDATA[<article><h1>Felix. </h1><p>Felix.</p></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/felix/index.html</link>
+            <guid isPermaLink="false">57a01051-b348-4517-92d8-4d4342a08e81</guid>
+            <pubDate>Sun, 27 Mar 2016 12:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27978f4b-67ae-4ed2-a52b-6d7220b45d99.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Der Felix.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07b97ba6e7e3734e31a3b253d64bc2a89de3ab6d.png"></article>]]></description>
             <link>https://thegrid.ai/howie-yagaloo-photography/der-felix/index.html</link>
             <guid isPermaLink="false">2f382eea-5e37-4b0a-957a-e410b316d3c1</guid>
-            <pubDate>Wed, 09 Mar 2016 02:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der Flo.]]></title>
-            <description><![CDATA[<article><h1>Der Flo.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7885004e18d7b9c3e73597796b73c4080c573e6c.png"></article>]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/der-flo/index.html</link>
-            <guid isPermaLink="false">3cedfd24-9fcd-4dad-b7e3-cc19998b0f23</guid>
             <pubDate>Wed, 09 Mar 2016 02:34:18 GMT</pubDate>
         </item>
     </channel>
