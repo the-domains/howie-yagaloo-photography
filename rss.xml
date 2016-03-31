@@ -4,8 +4,15 @@
         <description><![CDATA[This is Howie Yagaloo Photography.]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 01:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 01:22:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Duc-Hien.]]></title>
+            <description><![CDATA[<article><h1>Duc-Hien.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d0d346d-6491-4497-8026-2ae840348f1c.png"></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/duc-hien/index.html</link>
+            <guid isPermaLink="false">0adcf386-6a58-49ae-9d40-00d81d220803</guid>
+            <pubDate>Thu, 31 Mar 2016 01:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stefan.]]></title>
             <description><![CDATA[<article><h1>Stefan.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e3045a43c17843eac5406423a876a069dbe1675.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/c2e57f1d-dc10-45df-8c59-e015c89bf039/index.html</link>
             <guid isPermaLink="false">c2e57f1d-dc10-45df-8c59-e015c89bf039</guid>
             <pubDate>Fri, 25 Mar 2016 22:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c745fe-8040-4d7a-afb2-a4f6cc0f9541.jpg">]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/3b63c552-0671-489c-b6aa-86843c4ff692/index.html</link>
-            <guid isPermaLink="false">3b63c552-0671-489c-b6aa-86843c4ff692</guid>
-            <pubDate>Fri, 25 Mar 2016 22:14:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
