@@ -4,11 +4,18 @@
         <description><![CDATA[This is Howie Yagaloo Photography.]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 01:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 01:23:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[bodyshots.]]></title>
+            <description><![CDATA[<article><h1>bodyshots.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e59b840-229d-48ea-86b0-039fb77c3165.png"></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/bodyshots/index.html</link>
+            <guid isPermaLink="false">f50c9d55-60ea-4e1a-8a37-f0baf88706b3</guid>
+            <pubDate>Thu, 31 Mar 2016 01:23:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Batuhan.]]></title>
-            <description><![CDATA[<article><h1>Batuhan.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f45ef58-158b-4954-addb-ae21566ee4f3.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Batuhan.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81674bba7bbb062287cd38927d90489141426ac5.png"></article>]]></description>
             <link>https://thegrid.ai/howie-yagaloo-photography/batuhan/index.html</link>
             <guid isPermaLink="false">f0d9ec79-3fff-451c-adeb-beff826e45ca</guid>
             <pubDate>Thu, 31 Mar 2016 01:21:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/01b1e1c9-f3be-4ea1-a764-42132f84efc4/index.html</link>
             <guid isPermaLink="false">01b1e1c9-f3be-4ea1-a764-42132f84efc4</guid>
             <pubDate>Fri, 25 Mar 2016 22:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62bc3828-7823-4bda-be4c-63bf89d065dc.jpg">]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/12bcba6f-e1eb-4690-938b-e1d482398ed8/index.html</link>
-            <guid isPermaLink="false">12bcba6f-e1eb-4690-938b-e1d482398ed8</guid>
-            <pubDate>Fri, 25 Mar 2016 22:21:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
