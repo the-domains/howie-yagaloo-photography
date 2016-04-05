@@ -1,6 +1,6 @@
 name: howie yagaloo photography
 favicon: null
-layout_spectrum: 0.8502506
+layout_spectrum: 1
 typography_spectrum: 0.7098997
 title: This is Howie Yagaloo Photography.
 collections:
@@ -36,6 +36,6 @@ color:
     - '#8891B4'
   brandStrength: 0
   lightness: 1
-  saturation: 0.4375
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
