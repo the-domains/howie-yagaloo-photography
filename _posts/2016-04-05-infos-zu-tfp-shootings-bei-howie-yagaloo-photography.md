@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-05T19:28:32.935Z'
-dateModified: '2016-04-05T19:25:35.468Z'
+datePublished: '2016-04-05T19:29:05.248Z'
+dateModified: '2016-04-05T19:28:54.396Z'
 title: Infos zu TFP Shootings bei HOWIE YAGALOO Photography
 author: []
+sourcePath: _posts/2016-04-05-infos-zu-tfp-shootings-bei-howie-yagaloo-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-infos-zu-tfp-shootings-bei-howie-yagaloo-photography.md
-published: true
 url: infos-zu-tfp-shootings-bei-howie-yagaloo-photography/index.html
 _type: Article
 
