@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-05T19:36:45.039Z'
-dateModified: '2016-04-05T19:33:59.045Z'
+datePublished: '2016-04-05T19:41:50.259Z'
+dateModified: '2016-04-05T19:36:48.711Z'
 title: Infos zu TFP Shootings bei HOWIE YAGALOO Photography
 author: []
 sourcePath: _posts/2016-04-05-infos-zu-tfp-shootings-bei-howie-yagaloo-photography.md
