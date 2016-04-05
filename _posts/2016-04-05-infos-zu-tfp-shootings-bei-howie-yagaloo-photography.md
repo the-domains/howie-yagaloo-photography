@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-05T19:29:05.248Z'
-dateModified: '2016-04-05T19:28:54.396Z'
+datePublished: '2016-04-05T19:36:45.039Z'
+dateModified: '2016-04-05T19:33:59.045Z'
 title: Infos zu TFP Shootings bei HOWIE YAGALOO Photography
 author: []
 sourcePath: _posts/2016-04-05-infos-zu-tfp-shootings-bei-howie-yagaloo-photography.md
@@ -31,4 +31,10 @@ Also **TFP** ist die Abkürzung für "**Time for prints**". Das liegt daran, das
 
 Als Fotograf darf ich auch alle Fotos, die ich von Dir gemacht habe, kostenlos veröffentlichen, um **Werbung für mich als Fotografen** zu machen. Dort nenne ich auch immer den **Namen des Models**, damit auch dieser neue Kontakte bekommt.
 
-Da für das shooting ein Vertrag abgeschlossen wird, wo auch diese Details alle drin stehen, kann ich **TFP Shootings nur für Volljährige** anbieten. Eine Ausnahme besteht, wenn Deine Eltern/Erziehungsberechtigten eine Erlaubnis erteilen. Dazu brauche ich dann die entsprechende Unterschrift und in Kopie sowohl Deinen Personalausweis, wie auch von einem Elternteil, der dann mit unterschreibt. Das dient zur Absicherung von beiden Seiten - einerseits möchtest DU nicht, dass ich die Fotos für unseriöse Seiten nutze, andererseits möchte ich  nicht, dass ich alle zwei Wochen gebeten werde, irgendein Foto heraus zu nehmen.
+Da für das shooting ein Vertrag abgeschlossen wird, wo auch diese Details alle drin stehen, kann ich **TFP Shootings nur für Volljährige** anbieten. Eine Ausnahme besteht, wenn Deine Eltern/Erziehungsberechtigten eine Erlaubnis erteilen. Dazu brauche ich dann die entsprechende Unterschrift und in Kopie sowohl Deinen Personalausweis, wie auch von einem Elternteil, der dann mit unterschreibt. Das dient zur Absicherung von beiden Seiten - einerseits möchtest DU nicht, dass ich die Fotos für unseriöse Seiten nutze, andererseits möchte ich  nicht, dass ich alle zwei Wochen gebeten werde, irgendein Foto heraus zu nehmen. 
+
+Sollte der Fall eintreten, dass beispielsweise eine Fotoagentur oder ein Verlag ein Foto von mir kaufen will, wird das Honorar dann jeweils zu 50% geteilt - also Hälfte für Dich, die andere Hälfte für mich. Da die Bildrechte ausschließlich bei mir als Fotografen liegen, darfst Du diese Fotos nur mit meiner Genehmigung verkaufen - auch dann gilt 5o/50 .
+
+Solltest Du weitere Fragen haben, wende Dich gerne an mich - hier [auf facebook][0].  Greetz, HOWIE\*\*\*
+
+[0]: https://www.facebook.com/howieyagaloophotography
