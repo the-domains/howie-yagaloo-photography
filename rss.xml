@@ -4,7 +4,7 @@
         <description><![CDATA[This is Howie Yagaloo Photography.]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 20:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:16:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Infos zu TFP Shootings bei HOWIE YAGALOO Photography]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/infos-zu-tfp-shootings-bei-howie-yagaloo-photography/index.html</link>
             <guid isPermaLink="false">bc111f4f-6614-49ad-8ece-2873854a63fd</guid>
             <pubDate>Tue, 05 Apr 2016 19:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Felix.]]></title>
+            <description><![CDATA[<article><h1>Felix.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0369cc83-1fe6-4660-893e-21aedb086271.png"></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/felix/index.html</link>
+            <guid isPermaLink="false">d4a7a8f5-f71a-4ac4-9f95-3f2d355ae57b</guid>
+            <pubDate>Tue, 05 Apr 2016 20:10:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Felix. ]]></title>
@@ -39,7 +46,7 @@
             <description><![CDATA[<article><h1>Batuhan.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81674bba7bbb062287cd38927d90489141426ac5.png"></article>]]></description>
             <link>https://thegrid.ai/howie-yagaloo-photography/batuhan/index.html</link>
             <guid isPermaLink="false">f0d9ec79-3fff-451c-adeb-beff826e45ca</guid>
-            <pubDate>Thu, 31 Mar 2016 01:21:22 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 20:15:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duc-Hien.]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/bilal/index.html</link>
             <guid isPermaLink="false">35fc8639-a7af-4861-bde8-d7910718a768</guid>
             <pubDate>Thu, 31 Mar 2016 01:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilal.]]></title>
-            <description><![CDATA[<article><h1>Bilal.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54cec0185ecf4c6892fcade4cb2a87d60e853b36.png"></article>]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/bilal/index.html</link>
-            <guid isPermaLink="false">2a470cce-51f4-4dce-b57a-8e7fb38dcd6c</guid>
-            <pubDate>Thu, 31 Mar 2016 01:15:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
