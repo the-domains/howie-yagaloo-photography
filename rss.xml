@@ -4,7 +4,7 @@
         <description><![CDATA[This is Howie Yagaloo Photography.]]></description>
         <link>https://thegrid.ai/howie-yagaloo-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 00:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 00:50:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howie-yagaloo-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Infos zu TFP Shootings bei HOWIE YAGALOO Photography]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Ibo aus Berlin.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c90c466e-c74d-45a2-98fb-dcd678f4012a.png"></article>]]></description>
             <link>https://thegrid.ai/howie-yagaloo-photography/ibo-aus-berlin/index.html</link>
             <guid isPermaLink="false">9db52b06-d146-4135-9ddb-ed7ab89c839a</guid>
+            <pubDate>Mon, 11 Apr 2016 00:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ibo.]]></title>
+            <description><![CDATA[<article><h1>Ibo.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18299b6-ba3b-4cae-9085-380dc6298b9f.png"></article>]]></description>
+            <link>https://thegrid.ai/howie-yagaloo-photography/ibo/index.html</link>
+            <guid isPermaLink="false">f1dc83c9-cac3-4133-bcf4-3a2f87b32a5c</guid>
             <pubDate>Mon, 11 Apr 2016 00:49:16 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howie-yagaloo-photography/stefan/index.html</link>
             <guid isPermaLink="false">922ca09e-4409-48cc-a59f-dfc0f384c8d4</guid>
             <pubDate>Thu, 31 Mar 2016 01:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duc-Hien.]]></title>
-            <description><![CDATA[<article><h1>Duc-Hien.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f25b791241613985f6354c53b3dbec4b2295b7aa.png"></article>]]></description>
-            <link>https://thegrid.ai/howie-yagaloo-photography/duc-hien/index.html</link>
-            <guid isPermaLink="false">0adcf386-6a58-49ae-9d40-00d81d220803</guid>
-            <pubDate>Thu, 31 Mar 2016 01:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
